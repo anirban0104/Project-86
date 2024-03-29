@@ -1,1 +1,1 @@
-# ST-86-Solution
+Project 86
